@@ -1,5 +1,12 @@
 # PFO1-FrontEnd-ArtineMarcos
-Practica formativa obligatoria número 1 de Desarrollo de Sistemas Web - Front End realizada por Marcos Artine.
+
+Practica formativa obligatoria número 1 de Desarrollo de Sistemas Web - Front End, portfolio realizada por Marcos Artine.
+
+
+ENLACES DEL PROYECTO:
+
+* **Repositorio:** https://github.com/MarcosArtine/PFO1-FrontEnd-ArtineMarcos
+* **Sitio publicado:** https://tu-proyecto.vercel.app
 
 
 ## 🛠️ Herramientas Utilizadas y Desarrollo
@@ -40,3 +47,6 @@ A pesar de contar con la ayuda del asistente de IA para la generación del códi
 * **Estilos y Paleta de Colores:** Modifiqué la paleta CSS global mediante variables (`:root`) para darle un tono oscuro moderno (*Dark Mode*), asegurando un buen contraste visual y legibilidad.
 * **Rediseño de Habilidades:** Reemplacé las etiquetas simples de texto por íconos de la librería **Devicon**, aplicando la versión `wordmark` con la clase `colored` para mostrar cada tecnología con su color distintivo oficial.
 * **Optimización de Accesibilidad (ARIA):** Añadí etiquetas `aria-label`, `aria-labelledby` y `aria-required` para garantizar que la página sea completamente accesible mediante lectores de pantalla, respetando el uso correcto del HTML5 semántico.
+
+---
+
