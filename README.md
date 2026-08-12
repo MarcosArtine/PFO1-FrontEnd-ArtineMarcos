@@ -6,7 +6,7 @@ Practica formativa obligatoria número 1 de Desarrollo de Sistemas Web - Front E
 ENLACES DEL PROYECTO:
 
 * **Repositorio:** https://github.com/MarcosArtine/PFO1-FrontEnd-ArtineMarcos
-* **Sitio publicado:** https://tu-proyecto.vercel.app
+* **Sitio publicado:** https://artine-marcos.vercel.app/
 
 
 ## 🛠️ Herramientas Utilizadas y Desarrollo
